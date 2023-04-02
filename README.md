@@ -6,7 +6,7 @@ The Sports Trivia App is a Python application designed to test your knowledge of
 
 To use the Sports Trivia App, follow these steps:
 
-Clone this repository: git clone https://github.com/<ShakirMA>/Sports-Trivia.git
+Clone this repository: git clone https://github.com/ShakirMA/Sports-Trivia.git
 Navigate to the project directory: cd Sports-Trivia
 Install the required dependencies: pip install -r requirements.txt
 Run the app: python app.py
